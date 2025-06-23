@@ -1,2 +1,2 @@
 # ds-12
-Course materials for ds12
+Course materials for ds-12
