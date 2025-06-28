@@ -21,3 +21,5 @@ Useful Pandas methods for the real estate data cleanup assignment:
 3. `.dropna()` used to remove NaN (not a number) missing value placeholder from a dataframe or series
 
 You can find more information about what these methods do and how to use them in the Pandas [DataFrame](https://pandas.pydata.org/docs/reference/frame.html) and [general function](https://pandas.pydata.org/docs/reference/general_functions.html) documentaion.
+
+There is a whole module about plotting comming up - but for now, a quick skim of the Matplotlib [hist](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html) documentation should be enough to complete the last question.
