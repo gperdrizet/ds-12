@@ -17,6 +17,7 @@ Useful Pandas methods for the real estate data cleanup assignment:
 
 1. `.sort_values()` used to sort a dataframe
 2. `.unique()` & `.nunique()` used to get information about unique values in a dataframe/series
+3. `.isna()` checks for NaN (not a number) missing value placeholders
 3. `.dropna()` used to remove NaN (not a number) missing value placeholder from a dataframe or series
 
 You can find more information about what these methods do and how to use them in the Pandas [DataFrame](https://pandas.pydata.org/docs/reference/frame.html) and [general function](https://pandas.pydata.org/docs/reference/general_functions.html) documentaion.
