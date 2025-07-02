@@ -23,3 +23,7 @@ Useful Pandas methods for the real estate data cleanup assignment:
 You can find more information about what these methods do and how to use them in the Pandas [DataFrame](https://pandas.pydata.org/docs/reference/frame.html) and [general function](https://pandas.pydata.org/docs/reference/general_functions.html) documentaion.
 
 There is a whole module about plotting comming up - but for now, a quick skim of the Matplotlib [hist](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html) documentation should be enough to complete the last question.
+
+## 2025-07-02
+
+Cool talk by Bohan Zhang of OpenAI's infrastructure team - covers their implementaion of PostgreSQL and shows what is possible with a cutting edge, production grade SQL database at a top company: [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level).
