@@ -17,7 +17,7 @@ git merge pull_request
 
 And manually resolve any merge conflicts file-by-file. `git status` will tell you which files have conflicts. You will have to open Jupyter notebooks as text. Other file types (like .py and .md) don’t need any special treatment. Look for sections marked with `===` and `<<<` symbols:
 
-```python
+```text
 <<<<<<< HEAD
 This is the content from the current local version of the file.
 =======
