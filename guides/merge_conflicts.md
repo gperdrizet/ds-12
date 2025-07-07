@@ -32,6 +32,6 @@ git add .
 git commit -m “Merged pull request”
 git branch -d pull_request
 git push origin main
-```bash
+```
 
 Done.
