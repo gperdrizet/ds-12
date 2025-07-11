@@ -1,8 +1,8 @@
 # Quick reference for commands and libraries
 
-1. [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-2. [Git](https://education.github.com/git-cheat-sheet-education.pdf)
-3. [Bash commands (linux command line)](https://icosbigdatacamp.github.io/2018-summer-camp/slides/BASH_Cheat_Sheet.pdf)
-4. [VScode (windows/linux)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-5. [VScode (macOS)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-6. [Jupyter notebooks](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
+1. [Pandas](https://github.com/gperdrizet/ds-12/blob/main/assets/cheatsheets/pandas_cheetsheet.pdf)
+2. [Git](https://github.com/gperdrizet/ds-12/blob/main/assets/cheatsheets/git_cheetsheet.pdf)
+3. [Bash commands (linux command line)](https://github.com/gperdrizet/ds-12/blob/main/assets/cheatsheets/bash_cheetsheet.pdf)
+4. [VScode (windows/linux)](https://github.com/gperdrizet/ds-12/blob/main/assets/cheatsheets/vscode_cheatsheet_windows.pdf)
+5. [VScode (macOS)](https://github.com/gperdrizet/ds-12/blob/main/assets/cheatsheets/vscode_cheatsheet_macos.pdf)
+6. [Jupyter notebooks](https://github.com/gperdrizet/ds-12/blob/main/assets/cheatsheets/jupyter_notebook_cheatsheet.pdf)
