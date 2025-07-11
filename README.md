@@ -1,7 +1,7 @@
 # ds-12
 Course materials for ds-12
 
-1. [Module slides]
+1. [Module slides](https://github.com/gperdrizet/ds-12/blob/main/slides.md)
 2. [Project solutions](https://github.com/gperdrizet/ds-12/blob/main/solutions.md)
 3. [How-to guides](https://github.com/gperdrizet/ds-12/blob/main/guides.md)
 
