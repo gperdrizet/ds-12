@@ -1,6 +1,10 @@
 # ds-12
 Course materials for ds-12
 
+1. [Module slides]
+2. [Project solutions](https://github.com/gperdrizet/ds-12/blob/main/solutions.md)
+3. [How-to guides](https://github.com/gperdrizet/ds-12/blob/main/guides.md)
+
 ## Quick reference for commands and libraries
 
 1. [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
