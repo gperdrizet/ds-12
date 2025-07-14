@@ -8,3 +8,4 @@
 6. [Day 6: weeks 1 & 2 recap](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day6.pdf)
 7. [Day 7: web scraping with Python](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day7.pdf)
 8. [Day 8: API requests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day8.pdf)
+9. [Day 9: Calculus & linear algebra](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day9.pdf)
