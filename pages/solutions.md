@@ -7,3 +7,4 @@ I will upload my project solutions here after we complete the assignment.
 3. [Data Visualization with Matplotlib and Seaborn](https://github.com/4GeeksAcademy/gperdrizet-visualization-exercises-with-matplot-and-seaborn)
 4. [SQL Project: Global Life Institute Data Detectives](https://github.com/4GeeksAcademy/gperdrizet-exploratory-sql-analysis-project)
 5. [Web Scraping with Python](https://github.com/4GeeksAcademy/gperdrizet-web-scraping-project-tutorial)
+6. [Interacting with an API in Python](https://github.com/4GeeksAcademy/gperdrizet-interacting-with-api-python-project-tutorial)
