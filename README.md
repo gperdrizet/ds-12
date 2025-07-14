@@ -28,3 +28,10 @@ Cool talk by Bohan Zhang of OpenAI's infrastructure team - covers their implemen
 ### 2025-07-11
 
 Interesting further topic to read up on while we are learning about APIs: [Model Context Protocol](https://modelcontextprotocol.io/introduction). MCP was originally proposed by Anthropic, but is an open standard that anyone can use. It's basically a type of API designed for LLMs and agents to use. It standardizes communication between the model and data source, allowing a way to easily use and share tools for building agents. See also [A2A](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) (Google) and [ACP](https://www.ibm.com/think/topics/agent-communication-protocol) (IBM) - same idea, but for communication between agents.
+
+### 2025-07-14
+
+2024 Nobel prize in physics was awarded for early research which lead to modern neural networks. The prize was shared between two researchers: John Hopfield, who invented the 'Hopfield network' and Geoffrey Hinton, who designed early gradient descent algorithms.
+
+1. [2024 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2024/popular-information/): description of the history and importance of the works
+2. [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980): Scientific paper describing ADAM, one of the most common/popular optimization algorithms for training neural networks (note the publication year and the first authors affiliations!).
