@@ -10,6 +10,10 @@ Course materials for ds-12
 
 ### 2025-07-14
 
+As promised here is an 'extra' assignment which will walk you through hard-coding your own optimizer in Python to fit a linear model to toy data. Highly recommend taking a look - the assignment will give you a good 'gut' feeling for what is happening under the hood when we train machine learning models:
+
+[Linear Regression & Optimization Assignment](https://github.com/4GeeksAcademy/gperdrizet-optimization-bonus-assignment)
+
 2024 Nobel prize in physics was awarded for early research which lead to modern neural networks. The prize was shared between two researchers: John Hopfield, who invented the 'Hopfield network' and Geoffrey Hinton, who designed early gradient descent algorithms.
 
 1. [2024 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2024/popular-information/): description of the history and importance of the works
