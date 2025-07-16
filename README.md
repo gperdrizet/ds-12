@@ -8,6 +8,22 @@ Course materials for ds-12
 
 ## Extras
 
+### 2025-07-16
+
+While we are on the 'math' portion of the course one good, if a little obscure, Python library to know about is [SymPy](https://www.sympy.org/en/index.html). It does symbolic math in Python - including derivatives. We won't run into it often, but its good to know its out there in case you ever need it. Here's and example from the documentation - calculating the first derivative of a cosine function:
+
+```python
+import sympy as sp
+
+x = sp.symbols('x')
+derivative = sp.diff(sp.cos(x), x)
+
+print(f'First derivative: str(derivative)')
+```
+```python
+First derivative: -sin(x)
+```
+
 ### 2025-07-14
 
 As promised here is an 'extra' assignment which will walk you through hard-coding your own optimizer in Python to fit a linear model to toy data. Highly recommend taking a look - the assignment will give you a good 'gut' feeling for what is happening under the hood when we train machine learning models:
