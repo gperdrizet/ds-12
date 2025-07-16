@@ -20,7 +20,7 @@ derivative = sp.diff(sp.cos(x), x)
 
 print(f'First derivative: str(derivative)')
 ```
-```python
+```text
 First derivative: -sin(x)
 ```
 
