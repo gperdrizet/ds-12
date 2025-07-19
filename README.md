@@ -6,7 +6,16 @@ Course materials for ds-12
 3. [Project solutions](https://github.com/gperdrizet/ds-12/blob/main/pages/solutions.md)
 4. [How-to guides](https://github.com/gperdrizet/ds-12/blob/main/pages/guides.md)
 
+
 ## Extras
+
+### 2025-07-18
+
+OpenAI just released their ChatGPT based agent yesterday - here are the details:
+
+- Press release/FAQ style overview: [ChatGPT agent](https://help.openai.com/en/articles/11752874-chatgpt-agent)
+- Full technical details: [ChatGPT Agent System Card](https://cdn.openai.com/pdf/839e66fc-602c-48bf-81d3-b21eacc3459d/chatgpt_agent_system_card.pdf)
+
 
 ### 2025-07-16
 
@@ -24,6 +33,7 @@ print(f'First derivative: str(derivative)')
 First derivative: -sin(x)
 ```
 
+
 ### 2025-07-14
 
 As promised here is an 'extra' assignment which will walk you through hard-coding your own optimizer in Python to fit a linear model to toy data. Highly recommend taking a look - the assignment will give you a good 'gut' feeling for what is happening under the hood when we train machine learning models:
@@ -35,13 +45,16 @@ As promised here is an 'extra' assignment which will walk you through hard-codin
 1. [2024 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2024/popular-information/): description of the history and importance of the works
 2. [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980): Scientific paper describing ADAM, one of the most common/popular optimization algorithms for training neural networks (note the publication year and the first authors affiliations!).
 
+
 ### 2025-07-11
 
 Interesting further topic to read up on while we are learning about APIs: [Model Context Protocol](https://modelcontextprotocol.io/introduction). MCP was originally proposed by Anthropic, but is an open standard that anyone can use. It's basically a type of API designed for LLMs and agents to use. It standardizes communication between the model and data source, allowing a way to easily use and share tools for building agents. See also [A2A](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) (Google) and [ACP](https://www.ibm.com/think/topics/agent-communication-protocol) (IBM) - same idea, but for communication between agents.
 
+
 ### 2025-07-02
 
 Cool talk by Bohan Zhang of OpenAI's infrastructure team - covers their implementation of PostgreSQL and shows what is possible with a cutting edge, production grade SQL database at a top company: [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level).
+
 
 ### 2025-06-27
 
