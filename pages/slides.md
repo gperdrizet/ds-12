@@ -11,4 +11,5 @@
 9. [Day 9: Calculus & linear algebra](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day9.pdf)
 10. [Day 10: Probability](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day10.pdf)
 11. [Day 11: Descriptive statistics](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day11.pdf)
-11. [Day 12: Random variables](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day12.pdf)
+12. [Day 12: Random variables](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day12.pdf)
+13. [Day 13: Statistical tests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day12.pdf)
