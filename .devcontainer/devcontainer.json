@@ -4,6 +4,7 @@
 	"name": "DS12 materials",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+	"onCreateCommand": "sudo apt update && sudo apt upgrade -y && pip3 install --upgrade pip && pip3 install --user -r requirements.txt",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
