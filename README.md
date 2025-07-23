@@ -9,6 +9,13 @@ Course materials for ds-12
 
 ## Extras
 
+### 2025-07-23
+
+You will need two statistical test for tonight's assignment: the t-test and ANOVA. Both are in the SciPy stats module.
+
+1. [`ttest_ind`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html): t-test for means in two independent samples.
+2. [`f_oneway`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html): ANOVA for equivalence in means of two or more groups. Note: this test only tells you if one or more groups is significantly different than the others - not which group or groups!
+
 ### 2025-07-18
 
 OpenAI just released their ChatGPT based agent yesterday - here are the details:
