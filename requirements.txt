@@ -1,4 +1,5 @@
 matplotlib
+memory_profiler
 numpy
 pandas
 scipy
