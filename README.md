@@ -4,8 +4,9 @@ Course materials for ds-12
 1. [YouTube playlist](https://youtu.be/607QEWYZQpU?si=rBIrfjwxsHJk3xf4)
 2. [Module slides](https://github.com/gperdrizet/ds-12/blob/main/pages/slides.md)
 3. [Project solutions](https://github.com/gperdrizet/ds-12/blob/main/pages/solutions.md)
-4. [Data science project MVPs]()
-4. [How-to guides](https://github.com/gperdrizet/ds-12/blob/main/pages/guides.md)
+4. [Data science project MVPs](https://github.com/gperdrizet/ds-12/blob/main/pages/MVPs.md)
+5. [Data science project template repo](https://github.com/gperdrizet/4Geeks_datascience_project)
+5. [How-to guides](https://github.com/gperdrizet/ds-12/blob/main/pages/guides.md)
 
 
 ## Extras
