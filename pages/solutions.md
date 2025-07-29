@@ -13,3 +13,4 @@ I will upload my project solutions here after we complete the assignment.
 9. [Probability distributions](https://github.com/4GeeksAcademy/gperdrizet-probability-distribution-exercises-project-with-python)
 10. [Hypothesis testing](https://github.com/4GeeksAcademy/gperdrizet-hypothesis-testing-exercises-project-with-python/tree/main)
 11. [Algorithm optimization](https://github.com/4GeeksAcademy/gperdrizet-algorithm-optimization-project-machine-learning)
+12. [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/notebooks/solution.ipynb)
