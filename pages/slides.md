@@ -13,4 +13,5 @@
 11. [Day 11: Descriptive statistics](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day11.pdf)
 12. [Day 12: Random variables](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day12.pdf)
 13. [Day 13: Statistical tests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day13.pdf)
-13. [Day 14: Statistical tests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day14.pdf)
+14. [Day 14: Algorithm optimization](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day14.pdf)
+15. [Day 15: Your first ML algorithm](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day14.pdf)
