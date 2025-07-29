@@ -8,4 +8,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 
 ## MVPs
 
-1. [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/src/mvp.ipynb)
+1. [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/notebooks/mvp.ipynb)
