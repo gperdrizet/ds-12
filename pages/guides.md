@@ -8,4 +8,5 @@ How-tos and walk-throughs for tools used in the course.
 4. [Running statistical tests](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/t_test.ipynb)
 5. [Algorithm optimization](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/algorithm_optimization.ipynb)
 6. [Completing data science projects](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/data_science_projects.md)
+7. [Exploratory data analysis](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/EDA.md)
 7. [Final project topics](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/final_project_topic.md)
