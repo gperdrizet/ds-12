@@ -14,3 +14,4 @@ I will upload my project solutions here after we complete the assignment.
 10. [Hypothesis testing](https://github.com/4GeeksAcademy/gperdrizet-hypothesis-testing-exercises-project-with-python/tree/main)
 11. [Algorithm optimization](https://github.com/4GeeksAcademy/gperdrizet-algorithm-optimization-project-machine-learning)
 12. [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/notebooks/solution.ipynb)
+13. [Data preprocessing](https://github.com/gperdrizet/gperdrizet-data-preprocessing-project-tutorial/blob/main/notebooks/MVP.ipynb)
