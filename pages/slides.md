@@ -15,3 +15,4 @@
 13. [Day 13: Statistical tests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day13.pdf)
 14. [Day 14: Algorithm optimization](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day14.pdf)
 15. [Day 15: Your first ML algorithm](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day14.pdf)
+16. Day 16: First ML algorithm cont'd - no slides, see [YouTube video](https://youtu.be/1E2v33ZJ5HY?si=3U4lGujWLW1KOvNZ) instead
