@@ -3,4 +3,4 @@ memory_profiler
 numpy
 pandas
 scipy
-sklearn
+scikit-learn
