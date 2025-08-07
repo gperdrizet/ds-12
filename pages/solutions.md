@@ -8,7 +8,7 @@ I will upload my project solutions here after we complete the assignment.
 4. [SQL Project: Global Life Institute Data Detectives](https://github.com/4GeeksAcademy/gperdrizet-exploratory-sql-analysis-project)
 5. [Web Scraping with Python](https://github.com/4GeeksAcademy/gperdrizet-web-scraping-project-tutorial)
 6. [Interacting with an API in Python](https://github.com/4GeeksAcademy/gperdrizet-interacting-with-api-python-project-tutorial)
-7. [Probability](https://github.com/4GeeksAcademy/gerdrizet-probability-exercises-project-in-python)
+7. [Probability](https://github.com/4GeeksAcademy/gperdrizet-probability-exercises-project-in-python)
 8. [Descriptive statistics](https://github.com/4GeeksAcademy/perdrizet-descriptive-statistics-exercises-project-with-python)
 9. [Probability distributions](https://github.com/4GeeksAcademy/gperdrizet-probability-distribution-exercises-project-with-python)
 10. [Hypothesis testing](https://github.com/4GeeksAcademy/gperdrizet-hypothesis-testing-exercises-project-with-python/tree/main)
