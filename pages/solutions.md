@@ -16,3 +16,4 @@ I will upload my project solutions here after we complete the assignment.
 12. [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/notebooks/solution.ipynb)
 13. [Data preprocessing](https://github.com/gperdrizet/gperdrizet-data-preprocessing-project-tutorial/blob/main/notebooks/solution.ipynb)
 14. [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/notebooks/solution.ipynb)
+15. [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/blob/main/notebooks/solution.ipynb)
