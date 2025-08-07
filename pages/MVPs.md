@@ -11,3 +11,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 1. [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/src/mvp.ipynb)
 2. [Data preprocessing](https://github.com/gperdrizet/gperdrizet-data-preprocessing-project-tutorial)
 3. [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/notebooks/mvp.ipynb)
+4. [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/blob/main/notebooks/mvp.ipynb)
