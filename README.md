@@ -11,6 +11,15 @@ Course materials for ds-12
 
 ## Extras
 
+### 2025-08-06
+
+I added the notebooks for the overfitting demonstration and the fraction of explained variance example which were used to generate the plots in the linear regression slides. Take a look:
+
+1. [R-squared as fraction of explained variance](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/explained_variance.ipynb)
+2. [Overfitting demo](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/overfitting.ipynb)
+
+You can also find them linked via the 'How-to guides' page above.
+
 ### 2025-07-23
 
 You will need two statistical test for tonight's assignment: the t-test and ANOVA. Both are in the SciPy stats module.
