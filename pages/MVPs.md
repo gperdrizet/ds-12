@@ -12,3 +12,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 2. [Data preprocessing](https://github.com/gperdrizet/gperdrizet-data-preprocessing-project-tutorial)
 3. [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/notebooks/mvp.ipynb)
 4. [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/blob/main/notebooks/mvp.ipynb)
+5. [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/01.1-decision_tree_mvp.ipynb)
