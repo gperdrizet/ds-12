@@ -11,6 +11,15 @@ Course materials for ds-12
 
 ## Extras
 
+### 2025-08-08
+
+Here are the links to the 'longer-limbs' package that uses linear regression as a fall-back for extrapolation beyond the training data range of a tree based regression model:
+
+1. PyPI: [longer-limbs](https://pypi.org/project/longer-limbs)
+2. GiHub: [gperdrizet/longer-limbs](https://github.com/gperdrizet/longer-limbs)
+
+Package was built and published as part of a final project from an earlier cohort.
+
 ### 2025-08-06
 
 I added the notebooks for the overfitting demonstration and the fraction of explained variance example which were used to generate the plots in the linear regression slides. Take a look:
