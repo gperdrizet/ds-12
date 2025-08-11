@@ -11,6 +11,12 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-08-11
+
+Cool paper which first described the idea of using an ensemble of decision trees to help mitigate overfitting issues:
+
+Tin Kam Ho (1995) [Random Decision Forests](https://www.mrcc.purdue.edu/files/Legacy-Research/Random_decision_forests.pdf)
+
 ### 2025-08-08
 
 Here are the links to the 'longer-limbs' package that uses linear regression as a fall-back for extrapolation beyond the training data range of a tree based regression model:

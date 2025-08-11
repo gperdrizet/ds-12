@@ -19,4 +19,5 @@
 17. [Day 17: Exploratory data analysis](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day17.pdf)
 18. Day 18: Exploratory data analysis cont'd - no slides, see [YouTube video](https://youtu.be/cQxeS6ZXxzs) instead
 19. [Day 19: Linear regression](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day19.pdf)
-19. [Day 20: Decision trees](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day20.pdf)
+20. [Day 20: Decision trees](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day20.pdf)
+21. [Day 21: Random forests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day21.pdf)

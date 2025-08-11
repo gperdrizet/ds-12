@@ -18,3 +18,4 @@ I will upload my project solutions here after we complete the assignment.
 14. [Linear regression](https://github.com/4GeeksAcademy/gperdrizet-linear-regression/blob/main/notebooks/solution.ipynb)
 15. [Regularized linear regression](https://github.com/4GeeksAcademy/gperdrizet-regularized-linear-regression/blob/main/notebooks/solution.ipynb)
 16. [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/01.2-decision_tree_solution.ipynb)
+16. [Random forest](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/02.2-random_forest_solution.ipynb)
