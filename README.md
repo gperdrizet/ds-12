@@ -11,6 +11,20 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-08-13
+
+Here are links to the documentation to the additional implementation of gradient boosting we discussed in class:
+
+1. DLMC's XGBoost
+    - GitHub: [dmlc/xgboost](https://github.com/dmlc/xgboost)
+    - PyPI: [xgboost](https://pypi.org/project/xgboost/)
+    - Official documentation: [XGBoost documentation](https://xgboost.readthedocs.io/en/stable/)
+
+2. Microsoft's LightGBM
+    - GitHub: [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+    - PyPI: [lightgbm](https://pypi.org/project/lightgbm/)
+    - Official documentation: [LightGBM documentation](https://lightgbm.readthedocs.io/en/stable/)
+
 ## 2025-08-11
 
 Cool paper which first described the idea of using an ensemble of decision trees to help mitigate overfitting issues:
