@@ -21,4 +21,4 @@
 19. [Day 19: Linear regression](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day19.pdf)
 20. [Day 20: Decision trees](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day20.pdf)
 21. [Day 21: Random forests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day21.pdf)
-22. [Day 22: Gradient boosting](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day21.pdf)
+22. [Day 22: Gradient boosting](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day22.pdf)
