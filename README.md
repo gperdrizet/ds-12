@@ -11,6 +11,12 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-08-15
+
+I added a short write-up explaining the naive Bayes/bag-of-words classifier example from the lectures slides. See here:
+
+[Bag-of-words/naive Bayes](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/bag_of_words_naive_bayes.md)
+
 ## 2025-08-13
 
 Here are links to the documentation to the additional implementation of gradient boosting we discussed in class:
