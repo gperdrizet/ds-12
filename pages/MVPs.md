@@ -15,3 +15,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 5. [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/01.1-decision_tree_mvp.ipynb)
 6. [Random forests](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/02.1-random_forest_mvp.ipynb)
 7. [Gradient boosting](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/03.1-gradient_boosting_mvp.ipynb)
+8. [Naive Bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/notebooks/mvp.ipynb)

@@ -22,3 +22,4 @@
 20. [Day 20: Decision trees](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day20.pdf)
 21. [Day 21: Random forests](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day21.pdf)
 22. [Day 22: Gradient boosting](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day22.pdf)
+23. [Day 23: Naive Bayes](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day23.pdf)

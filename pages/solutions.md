@@ -20,3 +20,4 @@ I will upload my project solutions here after we complete the assignment.
 16. [Decision trees](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/01.2-decision_tree_solution.ipynb)
 17. [Random forest](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/02.2-random_forest_solution.ipynb)
 18. [Gradient boosting](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/03.2-gradient_boosting_solution.ipynb)
+19. [Naive Bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/notebooks/solution.ipynb)
