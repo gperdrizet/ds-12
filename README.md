@@ -11,6 +11,10 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-08-18
+
+Here is the link to the 2D/3D plotting demo with the iris dataset: [feature_space.ipynb](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/feature_space.ipynb)
+
 ## 2025-08-15
 
 I added a short write-up explaining the naive Bayes/bag-of-words classifier example from the lectures slides. See here:
