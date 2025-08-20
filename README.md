@@ -11,6 +11,12 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-08-19
+
+I updated the [feature space](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/feature_space.ipynb) notebook with the K-means and PCA plots from tonight's slides.
+
+The example application of PCA for dimensionality reduction we covered is from the [Naive Bayes project solution notebook](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/notebooks/solution.ipynb).
+
 ## 2025-08-18
 
 Here is the link to the 2D/3D plotting demo with the iris dataset: [feature_space.ipynb](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/feature_space.ipynb)

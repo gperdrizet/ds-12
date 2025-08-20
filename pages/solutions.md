@@ -22,3 +22,4 @@ I will upload my project solutions here after we complete the assignment.
 18. [Gradient boosting](https://github.com/4GeeksAcademy/gperdrizet-decision-trees/blob/main/notebooks/03.2-gradient_boosting_solution.ipynb)
 19. [Naive Bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/notebooks/solution.ipynb)
 20. [K-nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-k-nearest-neighbors/blob/main/notebooks/solution.ipynb)
+21. [K-means](https://github.com/4GeeksAcademy/gperdrizet-k-means/blob/main/notebooks/solution.ipynb)
