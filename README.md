@@ -11,6 +11,14 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-08-22
+
+Here are some links that you will find useful for time series forecasting:
+
+1. [Auto-ARIMA example](https://alkaline-ml.com/pmdarima/quickstart.html#auto-arima-example) in the pmdarima package documentation
+2. [Scikit-learn's TimeSeriesSplit()](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html)
+3. The Pandas documentation for [timestamp()](https://pandas.pydata.org/docs/reference/api/pandas.Timestamp.html) and [pd.to_datetime()](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
+
 ## 2025-08-19
 
 I updated the [feature space](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/feature_space.ipynb) notebook with the K-means and PCA plots from tonight's slides.
