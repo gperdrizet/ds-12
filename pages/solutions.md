@@ -24,3 +24,4 @@ I will upload my project solutions here after we complete the assignment.
 20. [K-nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-k-nearest-neighbors/blob/main/notebooks/solution.ipynb)
 21. [K-means](https://github.com/4GeeksAcademy/gperdrizet-k-means/blob/main/notebooks/solution.ipynb)
 22. [Time series forecasting](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/notebooks/solution.ipynb)
+23. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification/blob/main/src/tensorflow_cnn_classifier.ipynb)
