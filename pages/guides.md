@@ -12,4 +12,5 @@ How-tos and walk-throughs for tools used in the course.
 8. [Explained variance](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/explained_variance.ipynb)
 9. [Overfitting](https://github.com/gperdrizet/ds-12/blob/main/assets/notebooks/overfitting.ipynb)
 10. [Bag-of-word/naive Bayes](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/bag_of_words_naive_bayes.md)
-11. [Final project topics](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/final_project_topic.md)
+11. [Kaggle notebooks](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/kaggle_notebooks.md)
+12. [Final project topics](https://github.com/gperdrizet/ds-12/blob/main/pages/guides/final_project_topic.md)
