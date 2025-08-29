@@ -11,6 +11,10 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-08-29
+
+If you'd like some another resouce for TensorFlow, Keras, convolutional neural networks and computer vision. Take a look at [Google's classification tutorial](https://www.tensorflow.org/tutorials/images/classification). It's runnable in a Colab notebook as well (with some limited free GPU access too!).
+
 ## 2025-08-22
 
 Here are some links that you will find useful for time series forecasting:
