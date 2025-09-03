@@ -28,3 +28,4 @@
 26. [Day 26: Time series](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day26.pdf)
 27. [Day 27: Intro. to deep learning](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day27.pdf)
 28. [Day 28: Deep learning cont'd](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day28.pdf)
+29. [Day 29: Intro. to NLP](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day29.pdf)

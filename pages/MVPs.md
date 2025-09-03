@@ -20,3 +20,4 @@ The MVP notebooks in this list will give you a skeleton outline of what should b
 10. [K-means](https://github.com/4GeeksAcademy/gperdrizet-k-means/blob/main/notebooks/mvp.ipynb)
 11. [Time series forecasting](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/notebooks/mvp.ipynb)
 12. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification/blob/main/notebooks/mvp.ipynb)
+13. [NLP](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/notebooks/mvp.ipynb)
