@@ -11,6 +11,10 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-09-05
+
+Here is the link to the movie recommendation system project repository: [gperdrizet-recommendation-systems](https://github.com/4GeeksAcademy/gperdrizet-recommender-systems/blob/main/src/mvp.ipynb)
+
 ## 2025-09-03
 
 Scikit-learn has a nice document classification tutorial. It uses bag-of-words with TFIDF and compares the performance and training time of several model types. Check it out here: [Classification of text documents using sparse features](https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html#sphx-glr-auto-examples-text-plot-document-classification-20newsgroups-py).
