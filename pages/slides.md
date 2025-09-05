@@ -29,3 +29,4 @@
 27. [Day 27: Intro. to deep learning](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day27.pdf)
 28. [Day 28: Deep learning cont'd](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day28.pdf)
 29. [Day 29: Intro. to NLP](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day29.pdf)
+30. [Day 30: Recommender systems](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day30.pdf)
