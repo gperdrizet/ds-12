@@ -27,3 +27,4 @@ I will upload my project solutions here after we complete the assignment.
 23. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification/blob/main/notebooks/tensorflow_cnn_classifier.ipynb)
 24. [NLP](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/notebooks/SVC_solution.ipynb)
 25. [Recommender systems](https://github.com/4GeeksAcademy/gperdrizet-recommender-systems/blob/main/notebooks/solution.ipynb)
+26. [ML web app using Flask (movie recommender)](https://github.com/4GeeksAcademy/gperdrizet-recommender-system-flask)

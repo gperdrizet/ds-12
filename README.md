@@ -11,6 +11,10 @@ Course materials for ds-12
 
 ## Extras
 
+## 2025-09-08
+
+Here is the link to [Render](https://render.com), the cloud deployment service we will use for the 'ML web app with Flask' project - it's great for light, public facing deployment of web apps (still has a free tier!).
+
 ## 2025-09-05
 
 Here is the link to the movie recommendation system project repository: [gperdrizet-recommendation-systems](https://github.com/4GeeksAcademy/gperdrizet-recommender-systems/blob/main/src/mvp.ipynb)
