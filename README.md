@@ -25,7 +25,7 @@ Scikit-learn has a nice document classification tutorial. It uses bag-of-words w
 
 ## 2025-08-29
 
-If you'd like some another resouce for TensorFlow, Keras, convolutional neural networks and computer vision. Take a look at [Google's classification tutorial](https://www.tensorflow.org/tutorials/images/classification). It's runnable in a Colab notebook as well (with some limited free GPU access too!).
+If you'd like some another resource for TensorFlow, Keras, convolutional neural networks and computer vision. Take a look at [Google's classification tutorial](https://www.tensorflow.org/tutorials/images/classification). It's runnable in a Colab notebook as well (with some limited free GPU access too!).
 
 ## 2025-08-22
 
