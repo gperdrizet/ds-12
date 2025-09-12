@@ -30,4 +30,6 @@
 28. [Day 28: Deep learning cont'd](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day28.pdf)
 29. [Day 29: Intro. to NLP](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day29.pdf)
 30. [Day 30: Recommender systems](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day30.pdf)
-31. [Day 31: ML web app using Flask](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day30.pdf)
+31. [Day 31: ML web app deployment](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day31.pdf)
+32. [Day 32: ML web app deployment cont'd](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day32.pdf)
+33. [Day 33: CI/CD](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day33.pdf)

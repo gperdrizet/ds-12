@@ -28,3 +28,4 @@ I will upload my project solutions here after we complete the assignment.
 24. [NLP](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/notebooks/SVC_solution.ipynb)
 25. [Recommender systems](https://github.com/4GeeksAcademy/gperdrizet-recommender-systems/blob/main/notebooks/solution.ipynb)
 26. [ML web app using Flask (movie recommender)](https://github.com/4GeeksAcademy/gperdrizet-recommender-system-flask)
+27. [ML web app using Streamlit (movie recommender)](https://github.com/4GeeksAcademy/gperdrizet-recommender-system-streamlit)
