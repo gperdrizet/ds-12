@@ -33,3 +33,4 @@
 31. [Day 31: ML web app deployment](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day31.pdf)
 32. [Day 32: ML web app deployment cont'd](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day32.pdf)
 33. [Day 33: CI/CD](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day33.pdf)
+34. [Day 34: Final project intro](https://github.com/gperdrizet/ds-12/blob/main/assets/slides/day34.pdf)
